@@ -14,6 +14,6 @@ end
 
 
 
-single_ladies = Song.new("All The Single Ladies")
-beyonce = Artist.new("Beyonce")
+# single_ladies = Song.new("All The Single Ladies")
+# beyonce = Artist.new("Beyonce")
 #single_ladies.artist = beyonce
